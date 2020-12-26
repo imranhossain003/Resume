@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.visualcv.com	TRUE	/	FALSE	1999999999	__cfduid	d6260d6f9248645d1eb783cd0cda5422b1608962568
+www.visualcv.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
